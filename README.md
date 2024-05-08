@@ -1,16 +1,14 @@
-### Hi there 👋
+# Willie Harris
 
-<!--
-**wdharri2/wdharri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm Willie Harris, and I hold a B.S. in Computer Science with a concentration in Cybersecurity from NC State. I'm passionate about secure software development, penetration testing, cybersecurity analysis.
 
-Here are some ideas to get you started:
+### 🔑 Public Key
+My public key is included in this repository for secure communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📄 Resume
+Feel free to review my resume at [tinyurl.com/wdhresume](https://tinyurl.com/wdhresume).
+
+### 💼 LinkedIn
+Connect with me on LinkedIn: [Willie Harris](https://www.linkedin.com/in/willie-harrisjr/)
+
+Thanks for stopping by, and let's connect!
