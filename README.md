@@ -9,7 +9,7 @@ I'm a maintainer of [AssemBliss](https://github.com/assembliss/AssemBliss), a VS
 My public key is included in this repository for secure communication.
 
 ### 📄 Resume
-Feel free to review my resume at [tinyurl.com/wdhresume](https://tinyurl.com/wdhresume).
+Message me through LinkedIn for access to my resume.
 
 ### 💼 LinkedIn
 Connect with me on LinkedIn: [Willie Harris](https://www.linkedin.com/in/willie-harrisjr/)
